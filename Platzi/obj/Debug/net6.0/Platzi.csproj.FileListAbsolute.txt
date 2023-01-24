@@ -1,0 +1,15 @@
+C:\Users\iAlec\source\repos\Platzi\Platzi\bin\Debug\net6.0\Platzi.exe
+C:\Users\iAlec\source\repos\Platzi\Platzi\bin\Debug\net6.0\Platzi.deps.json
+C:\Users\iAlec\source\repos\Platzi\Platzi\bin\Debug\net6.0\Platzi.runtimeconfig.json
+C:\Users\iAlec\source\repos\Platzi\Platzi\bin\Debug\net6.0\Platzi.dll
+C:\Users\iAlec\source\repos\Platzi\Platzi\bin\Debug\net6.0\Platzi.pdb
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.csproj.AssemblyReference.cache
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.AssemblyInfoInputs.cache
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.AssemblyInfo.cs
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.csproj.CoreCompileInputs.cache
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.dll
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\refint\Platzi.dll
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.pdb
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\Platzi.genruntimeconfig.cache
+C:\Users\iAlec\source\repos\Platzi\Platzi\obj\Debug\net6.0\ref\Platzi.dll
