@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Platzi.Entidades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,10 @@ namespace CoreEscuela.Entidades
         public string UniqueID { get; private set; }
         public string Nombre { get; set; }
         public TiposJornada Jornada { get; set;}
+        public List<Asignatura> Asignaturas { get; set; }
+        public List <Alumno> Alumnos { get; set; }
+        public List<Evaluaciones> Evaluaciones { get; set; }
+
         public Curso(string nombre, TiposJornada jornada) {
             UniqueID = Guid.NewGuid().ToString();
             (Nombre, Jornada) = (nombre, jornada);
